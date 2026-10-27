@@ -59,6 +59,9 @@ def main():
         if source == (ROOT / "dist/izbori-2026").resolve():
             destinations.append(ROOT / "dist")
         for target in destinations:
+            existing = target / name
+            if existing.is_file() and same_content(name, existing.read_bytes(), (source / name).read_bytes()):
+                continue
             temporary = target / (name + ".tmp")
             shutil.copyfile(source / name, temporary)
             temporary.replace(target / name)
