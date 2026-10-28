@@ -64,7 +64,14 @@ def main():
                 continue
             temporary = target / (name + ".tmp")
             shutil.copyfile(source / name, temporary)
-            temporary.replace(target / name)
+            for attempt in range(10):
+                try:
+                    temporary.replace(target / name)
+                    break
+                except PermissionError:
+                    if attempt == 9:
+                        raise
+                    __import__('time').sleep(.5)
     (destination / ".nojekyll").write_text("", encoding="utf-8")
     print("Освежен је docs. Сада можете да комитујете његов садржај. Подаци и бројчани резултати нису поново рачунати.")
 
