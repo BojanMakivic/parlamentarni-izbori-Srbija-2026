@@ -1,15 +1,15 @@
 {
   "application_version": "0.1.0",
   "input": {
-    "name": "Парламентарни избори",
+    "name": "Парламентарни избори 2026 — ажурирани подаци",
     "date": "",
-    "sha256": "7cedc92a37ea189624bc5542f9d350f3d9fc97d1b311cfe9a566b4c0a723c3d1",
+    "sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb",
     "source_url": "",
-    "delimiter": ",",
+    "delimiter": ";",
     "schema_version": 1,
     "location_profile": {
       "schema_version": 1,
-      "source_sha256": "7cedc92a37ea189624bc5542f9d350f3d9fc97d1b311cfe9a566b4c0a723c3d1",
+      "source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb",
       "mappings": [
         {
           "station_uid": "235566",
@@ -17,10 +17,10 @@
           "station_name": "МУЛТИКУЛТУРАЛНИ ЦЕНТАР",
           "city_id": "gn-2158177",
           "country_code": "AU",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=1",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235569",
@@ -28,10 +28,10 @@
           "station_name": "ГЕНЕРАЛНИ КОНЗУЛАТ РС СИДНЕЈ",
           "city_id": "gn-2147714",
           "country_code": "AU",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=1",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235572",
@@ -39,10 +39,10 @@
           "station_name": "АМБАСАДА РС БЕЧ – КОНЗУЛАРНО ОДЕЉЕЊЕ",
           "city_id": "gn-2761369",
           "country_code": "AT",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=1",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235575",
@@ -50,10 +50,10 @@
           "station_name": "АМБАСАДА РС БЕЧ – КОНЗУЛАРНО ОДЕЉЕЊЕ",
           "city_id": "gn-2761369",
           "country_code": "AT",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=1",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235578",
@@ -61,10 +61,10 @@
           "station_name": "АМБАСАДА РС БЕЧ – КОНЗУЛАРНО ОДЕЉЕЊЕ",
           "city_id": "gn-2761369",
           "country_code": "AT",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=1",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235581",
@@ -72,10 +72,10 @@
           "station_name": "АМБАСАДА РС БЕЧ – КОНЗУЛАРНО ОДЕЉЕЊЕ",
           "city_id": "gn-2761369",
           "country_code": "AT",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=1",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235584",
@@ -83,10 +83,10 @@
           "station_name": "ГЕНЕРАЛНИ КОНЗУЛАТ РС САЛЦБУРГ",
           "city_id": "gn-2766824",
           "country_code": "AT",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=1",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235587",
@@ -94,10 +94,10 @@
           "station_name": "КАНЦЕЛАРИЈА ПОЧАСНОГ КОНЗУЛА РС У ЛИНЦУ",
           "city_id": "gn-2772400",
           "country_code": "AT",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=1",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235590",
@@ -105,10 +105,10 @@
           "station_name": "АМБАСАДА РС БРИСЕЛ",
           "city_id": "gn-2800866",
           "country_code": "BE",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=2",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235593",
@@ -116,10 +116,10 @@
           "station_name": "АМБАСАДА РС САРАЈЕВО",
           "city_id": "gn-3191281",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=2",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235596",
@@ -127,10 +127,10 @@
           "station_name": "ГЕНЕРАЛНИ КОНЗУЛАТ РС БАЊА ЛУКА",
           "city_id": "gn-3204541",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=2",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235599",
@@ -138,10 +138,10 @@
           "station_name": "ПОСЛОВНА ЗГРАДА М:ТЕЛ БАЊА ЛУКА",
           "city_id": "gn-3204541",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=2",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235602",
@@ -149,10 +149,10 @@
           "station_name": "М:ТЕЛ ТКЦ БАЊА ЛУКА",
           "city_id": "gn-3204541",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=2",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235605",
@@ -160,10 +160,10 @@
           "station_name": "ГЕНЕРАЛНИ КОНЗУЛАТ РС МОСТАР",
           "city_id": "gn-3194828",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=2",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235608",
@@ -171,10 +171,10 @@
           "station_name": "КОНЗУЛАРНА КАНЦЕЛАРИЈА ГЕНЕРАЛНОГ КОНЗУЛАТА РС У МОСТАРУ СА СЕДИШТЕМ У ДРВАРУ",
           "city_id": "gn-3201136",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=2",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235611",
@@ -182,10 +182,10 @@
           "station_name": "КОНЗУЛАРНА КАНЦЕЛАРИЈА ГЕНЕРАЛНОГ КОНЗУЛАТА РС У БАЊА ЛУЦИ СА СЕДИШТЕМ У ТРЕБИЊУ",
           "city_id": "gn-3188893",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=2",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235614",
@@ -193,10 +193,10 @@
           "station_name": "ОСНОВНА ШКОЛА „ВУК КАРАЏИЋ” РОЋЕВИЋ, ПОДРУЧНО ОДЕЉЕЊЕ БРАЊЕВО",
           "city_id": "gn-3203561",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=2",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235617",
@@ -204,10 +204,10 @@
           "station_name": "ОСНОВНА ШКОЛА „ВУК КАРАЏИЋ”",
           "city_id": "gn-3204186",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=2",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235620",
@@ -215,10 +215,10 @@
           "station_name": "ОСНОВНА ШКОЛА „ВУК КАРАЏИЋ”",
           "city_id": "gn-3204186",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=3",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235623",
@@ -226,10 +226,10 @@
           "station_name": "СРЕДЊОШКОЛСКИ ЦЕНТАР БРАТУНАЦ",
           "city_id": "gn-3203533",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=3",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235626",
@@ -237,10 +237,10 @@
           "station_name": "СРЕДЊОШКОЛСКИ ЦЕНТАР „ИВО АНДРИЋ”",
           "city_id": "gn-3187681",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=3",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235629",
@@ -248,10 +248,10 @@
           "station_name": "ЦЕНТАР ЗА ОБРАЗОВАЊЕ И КУЛТУРУ",
           "city_id": "gn-3201984",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=3",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235632",
@@ -259,10 +259,10 @@
           "station_name": "ОСНОВНА ШКОЛА „СВЕТИ САВА”",
           "city_id": "gn-3186246",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=3",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235635",
@@ -270,10 +270,10 @@
           "station_name": "ОСНОВНА ШКОЛА „СВЕТИ САВА”",
           "city_id": "gn-3196209",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=3",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235638",
@@ -281,10 +281,10 @@
           "station_name": "ОСНОВНА ШКОЛА „ДЕСАНКА МАКСИМОВИЋ”",
           "city_id": "gn-3192409",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=3",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235641",
@@ -292,10 +292,10 @@
           "station_name": "СРЕДЊОШКОЛСКИ ЦЕНТАР „РУДО”",
           "city_id": "gn-3191449",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=3",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235644",
@@ -303,10 +303,10 @@
           "station_name": "СРЕДЊОШКОЛСКИ ЦЕНТАР „МРКОЊИЋ ГРАД”",
           "city_id": "gn-3194724",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=3",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235647",
@@ -314,10 +314,10 @@
           "station_name": "ОСНОВНА ШКОЛА „СРБИЈА”",
           "city_id": "gn-3193692",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=3",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235650",
@@ -325,10 +325,10 @@
           "station_name": "ОСНОВНА ШКОЛА „ВУК КАРАЏИЋ“",
           "city_id": "gn-3187524",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=3",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235653",
@@ -336,10 +336,10 @@
           "station_name": "ОСНОВНА ШКОЛА „СОКОЛАЦ“",
           "city_id": "gn-3190385",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=4",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235656",
@@ -347,10 +347,10 @@
           "station_name": "ОСНОВНА ШКОЛА „СВЕТИ САВА“",
           "city_id": "gn-3200837",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=4",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235659",
@@ -358,10 +358,10 @@
           "station_name": "СРЕДЊОШКОЛСКИ ЦЕНТАР „27. ЈАНУАР“",
           "city_id": "gn-3191576",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=4",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235662",
@@ -369,10 +369,10 @@
           "station_name": "ЈП „СКЦ“",
           "city_id": "gn-11205170",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=4",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235665",
@@ -380,10 +380,10 @@
           "station_name": "КУЛТУРНИ ЦЕНТАР",
           "city_id": "gn-3203656",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=4",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235668",
@@ -391,10 +391,10 @@
           "station_name": "ЦЕНТАР ЗА КУЛТУРУ „ФИЛИП ВИШЊИЋ“",
           "city_id": "gn-3188532",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=4",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235671",
@@ -402,10 +402,10 @@
           "station_name": "СРПСКА КУЋА",
           "city_id": "gn-3203521",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=4",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235674",
@@ -413,10 +413,10 @@
           "station_name": "ОСНОВНА ШКОЛА „ВУК КАРАЏИЋ“ ПОДРУЧНА ШКОЛА НОВО ГОРАЖДЕ",
           "city_id": "gn-3197764",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=4",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235677",
@@ -424,10 +424,10 @@
           "station_name": "АМБАСАДА РС БРАЗИЛИЈА",
           "city_id": "gn-3469058",
           "country_code": "BR",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=4",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235680",
@@ -435,10 +435,10 @@
           "station_name": "АМБАСАДА РС АТИНА",
           "city_id": "gn-264371",
           "country_code": "GR",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=4",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235683",
@@ -446,10 +446,10 @@
           "station_name": "АМБАСАДА РС КОПЕНХАГЕН",
           "city_id": "gn-2618425",
           "country_code": "DK",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=4",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235686",
@@ -457,10 +457,10 @@
           "station_name": "АМБАСАДА РС ЏАКАРТА",
           "city_id": "gn-1642911",
           "country_code": "ID",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=5",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235689",
@@ -468,10 +468,10 @@
           "station_name": "CARLTON HOTEL BLANCHARDSTOWN",
           "city_id": "gn-2964574",
           "country_code": "IE",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=5",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235692",
@@ -479,10 +479,10 @@
           "station_name": "АМБАСАДА РС РИМ",
           "city_id": "gn-3169070",
           "country_code": "IT",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=5",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235695",
@@ -490,10 +490,10 @@
           "station_name": "ГЕНЕРАЛНИ КОНЗУЛАТ РС МИЛАНО",
           "city_id": "gn-3173435",
           "country_code": "IT",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=5",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235698",
@@ -501,10 +501,10 @@
           "station_name": "ГЕНЕРАЛНИ КОНЗУЛАТ РС ТРСТ",
           "city_id": "gn-3165185",
           "country_code": "IT",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=5",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235701",
@@ -512,10 +512,10 @@
           "station_name": "АМБАСАДА РС ТОКИО",
           "city_id": "gn-1850147",
           "country_code": "JP",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=5",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235704",
@@ -523,10 +523,10 @@
           "station_name": "АМБАСАДА РС ПРЕТОРИЈА",
           "city_id": "gn-964137",
           "country_code": "ZA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=5",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235707",
@@ -534,10 +534,10 @@
           "station_name": "АМБАСАДА РС ОТАВА",
           "city_id": "gn-6094817",
           "country_code": "CA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=5",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235710",
@@ -545,10 +545,10 @@
           "station_name": "ГЕНЕРАЛНИ КОНЗУЛАТ РС  ТОРОНТО",
           "city_id": "gn-6167865",
           "country_code": "CA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=5",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235713",
@@ -556,10 +556,10 @@
           "station_name": "АМБАСАДА РС ПЕКИНГ",
           "city_id": "gn-1816670",
           "country_code": "CN",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=5",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235716",
@@ -567,10 +567,10 @@
           "station_name": "АМБАСАДА РС НИКОЗИЈА",
           "city_id": "gn-146268",
           "country_code": "CY",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=5",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235719",
@@ -578,10 +578,10 @@
           "station_name": "СРПСКИ КУЛТУРНИ ЦЕНТАР",
           "city_id": "gn-2960316",
           "country_code": "LU",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=6",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235722",
@@ -589,10 +589,10 @@
           "station_name": "ВИША ПОСЛОВНА ШКОЛА „ASENICIA“",
           "city_id": "gn-2562955",
           "country_code": "MT",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=6",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235725",
@@ -600,10 +600,10 @@
           "station_name": "АМБАСАДА РС БУДИМПЕШТА",
           "city_id": "gn-3054643",
           "country_code": "HU",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=6",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235728",
@@ -611,10 +611,10 @@
           "station_name": "АМБАСАДА РС БЕРЛИН",
           "city_id": "gn-2950159",
           "country_code": "DE",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=6",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235731",
@@ -622,10 +622,10 @@
           "station_name": "ГЕНЕРАЛНИ КОНЗУЛАТ РС ДИСЕЛДОРФ",
           "city_id": "gn-2934246",
           "country_code": "DE",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=6",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235734",
@@ -633,10 +633,10 @@
           "station_name": "ГЕНЕРАЛНИ КОНЗУЛАТ РС МИНХЕН",
           "city_id": "gn-2867714",
           "country_code": "DE",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=6",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235737",
@@ -644,10 +644,10 @@
           "station_name": "ГЕНЕРАЛНИ КОНЗУЛАТ РС МИНХЕН",
           "city_id": "gn-2867714",
           "country_code": "DE",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=6",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235740",
@@ -655,10 +655,10 @@
           "station_name": "ГЕНЕРАЛНИ КОНЗУЛАТ РС ШТУТГАРТ",
           "city_id": "gn-2825297",
           "country_code": "DE",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=6",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235743",
@@ -666,10 +666,10 @@
           "station_name": "ГЕНЕРАЛНИ КОНЗУЛАТ РС ФРАНКФУРТ",
           "city_id": "gn-2925533",
           "country_code": "DE",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=6",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235746",
@@ -677,10 +677,10 @@
           "station_name": "ГЕНЕРАЛНИ КОНЗУЛАТ РС ФРАНКФУРТ",
           "city_id": "gn-2925533",
           "country_code": "DE",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=6",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235749",
@@ -688,10 +688,10 @@
           "station_name": "ГЕНЕРАЛНИ КОНЗУЛАТ РС ХАМБУРГ",
           "city_id": "gn-2911298",
           "country_code": "DE",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=6",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235752",
@@ -699,10 +699,10 @@
           "station_name": "WHITECLIFFE КОЛЕЏ",
           "city_id": "gn-2193733",
           "country_code": "NZ",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=6",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235755",
@@ -710,10 +710,10 @@
           "station_name": "АМБАСАДА РС ОСЛО",
           "city_id": "gn-3143244",
           "country_code": "NO",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=6",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235758",
@@ -721,10 +721,10 @@
           "station_name": "АМБАСАДА РС ВАРШАВА",
           "city_id": "gn-756135",
           "country_code": "PL",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=6",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235761",
@@ -732,10 +732,10 @@
           "station_name": "АМБАСАДА РС ЛИСАБОН",
           "city_id": "gn-2267057",
           "country_code": "PT",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=7",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235764",
@@ -743,10 +743,10 @@
           "station_name": "АМБАСАДА РС МОСКВА",
           "city_id": "gn-524901",
           "country_code": "RU",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=7",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235767",
@@ -754,10 +754,10 @@
           "station_name": "КОМПАНИЈА АЛК++",
           "city_id": "gn-491422",
           "country_code": "RU",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=7",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235770",
@@ -765,10 +765,10 @@
           "station_name": "АМБАСАДА РС СКОПЉЕ",
           "city_id": "gn-785842",
           "country_code": "MK",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=7",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235773",
@@ -776,10 +776,10 @@
           "station_name": "КАНЦЕЛАРИЈА ПОЧАСНОГ КОНЗУЛА РС У КУМАНОВУ",
           "city_id": "gn-788886",
           "country_code": "MK",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=7",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235776",
@@ -787,10 +787,10 @@
           "station_name": "АМБАСАДА РС ВАШИНГТОН",
           "city_id": "gn-4140963",
           "country_code": "US",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=7",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235779",
@@ -798,10 +798,10 @@
           "station_name": "ГЕНЕРАЛНИ КОНЗУЛАТ РС ЧИКАГО",
           "city_id": "gn-4887398",
           "country_code": "US",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=7",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235782",
@@ -809,10 +809,10 @@
           "station_name": "ГЕНЕРАЛНИ КОНЗУЛАТ РС ЊУЈОРК",
           "city_id": "gn-5128581",
           "country_code": "US",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=7",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235785",
@@ -820,10 +820,10 @@
           "station_name": "ОБЈЕКАТ ЗАЈЕДНИЦЕ ПРЕДУЗЕТНИКА \"EXPERT DOJO“",
           "city_id": "gn-5393212",
           "country_code": "US",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=7",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235788",
@@ -831,10 +831,10 @@
           "station_name": "АМБАСАДА РС ЉУБЉАНА",
           "city_id": "gn-3196359",
           "country_code": "SI",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=7",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235791",
@@ -842,10 +842,10 @@
           "station_name": "АМБАСАДА РС ЉУБЉАНА",
           "city_id": "gn-3196359",
           "country_code": "SI",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=7",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235794",
@@ -853,10 +853,10 @@
           "station_name": "АМБАСАДА РС ЛОНДОН",
           "city_id": "gn-2643743",
           "country_code": "GB",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=8",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235797",
@@ -864,10 +864,10 @@
           "station_name": "АМБАСАДА РС ХЕЛСИНКИ",
           "city_id": "gn-658225",
           "country_code": "FI",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=8",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235800",
@@ -875,10 +875,10 @@
           "station_name": "КУЛТУРНИ ЦЕНТАР СРБИЈЕ",
           "city_id": "gn-2988507",
           "country_code": "FR",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=8",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235803",
@@ -886,10 +886,10 @@
           "station_name": "КОНЗУЛАТ РС СТРАЗБУР",
           "city_id": "gn-2973783",
           "country_code": "FR",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=8",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235806",
@@ -897,10 +897,10 @@
           "station_name": "АМБАСАДА РС ХАГ",
           "city_id": "gn-2747373",
           "country_code": "NL",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=8",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235809",
@@ -908,10 +908,10 @@
           "station_name": "АМБАСАДА РС ЗАГРЕБ",
           "city_id": "gn-3186886",
           "country_code": "HR",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=8",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235812",
@@ -919,10 +919,10 @@
           "station_name": "ГЕНЕРАЛНИ КОНЗУЛАТ РС ВУКОВАР",
           "city_id": "gn-3187047",
           "country_code": "HR",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=8",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235815",
@@ -930,10 +930,10 @@
           "station_name": "АМБАСАДА РС ПОДГОРИЦА",
           "city_id": "gn-3193044",
           "country_code": "ME",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=8",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235818",
@@ -941,10 +941,10 @@
           "station_name": "УДРУЖЕЊЕ „КОСМЕТ”",
           "city_id": "gn-3189429",
           "country_code": "ME",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=8",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235821",
@@ -952,10 +952,10 @@
           "station_name": "КАНЦЕЛАРИЈА РАСЕЉЕНИХ ЛИЦА СА КОСМЕТА",
           "city_id": "gn-3199071",
           "country_code": "ME",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=8",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235824",
@@ -963,10 +963,10 @@
           "station_name": "АМБАСАДА РС ПРАГ",
           "city_id": "gn-3067696",
           "country_code": "CZ",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=8",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235827",
@@ -974,10 +974,10 @@
           "station_name": "АМБАСАДА РС БЕРН",
           "city_id": "gn-2661552",
           "country_code": "CH",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=8",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235830",
@@ -985,10 +985,10 @@
           "station_name": "ГЕНЕРАЛНИ КОНЗУЛАТ РС ЦИРИХ",
           "city_id": "gn-2657896",
           "country_code": "CH",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=8",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235833",
@@ -996,10 +996,10 @@
           "station_name": "АМБАСАДА РС СТОКХОЛМ",
           "city_id": "gn-2673730",
           "country_code": "SE",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=9",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235836",
@@ -1007,10 +1007,10 @@
           "station_name": "КУЛТУРНО-СПОРТСКO УДРУЖЕЊЕ „СРБИЈА” МАЛМЕ",
           "city_id": "gn-2692969",
           "country_code": "SE",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=9",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235839",
@@ -1018,10 +1018,10 @@
           "station_name": "АМБАСАДА РС МАДРИД",
           "city_id": "gn-3117735",
           "country_code": "ES",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=9",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235842",
@@ -1029,15 +1029,15 @@
           "station_name": "АМБАСАДА РС МАДРИД",
           "city_id": "gn-3117735",
           "country_code": "ES",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=9",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         }
       ],
       "cities": []
     },
-    "location_revision": "2a1dd0db0cb17a1ccdff1aa30254a14a95d05650d2461d1fa7885b537b6a82e0"
+    "location_revision": "851f8a1c29fe9ae5387e335ff81b5f14667ee08a37088cc620e1baa4bf68272a"
   },
   "mapping": {
     "district_code": "sifra_okruga_regiona",
@@ -1123,24 +1123,70 @@
     {
       "id": "party_198a3e0a82df",
       "name": "lista_18"
+    },
+    {
+      "id": "party_3a3d8605b0bc",
+      "name": "lista_19"
+    },
+    {
+      "id": "party_8aa7ee83f16e",
+      "name": "lista_20"
+    },
+    {
+      "id": "party_df251fce2812",
+      "name": "lista_21"
+    },
+    {
+      "id": "party_3710720db2f0",
+      "name": "lista_22"
+    },
+    {
+      "id": "party_e721bba350db",
+      "name": "lista_23"
+    },
+    {
+      "id": "party_610cee83545e",
+      "name": "lista_24"
+    },
+    {
+      "id": "party_b784cf65a4aa",
+      "name": "lista_25"
+    },
+    {
+      "id": "party_53c4a7820cc2",
+      "name": "lista_26"
+    },
+    {
+      "id": "party_4a37be33f76c",
+      "name": "lista_27"
+    },
+    {
+      "id": "party_0e7441786ae3",
+      "name": "lista_28"
+    },
+    {
+      "id": "party_c52be8e516d8",
+      "name": "lista_29"
+    },
+    {
+      "id": "party_ccf806852b2c",
+      "name": "lista_30"
     }
   ],
   "config": {
-    "field_id": "party_39182a78443b",
+    "field_id": "party_5c0c10997e36",
     "methods": [
       "last_digit",
       "last_pair",
-      "benford_second",
-      "benford_first"
+      "benford_second"
     ],
     "threshold": 100,
     "level": "national",
     "code": "all",
-    "repetitions": 10000,
+    "repetitions": 1000,
     "seed": 42,
     "population": "all",
-    "location_revision": "2a1dd0db0cb17a1ccdff1aa30254a14a95d05650d2461d1fa7885b537b6a82e0",
-    "alpha": 0.05
+    "location_revision": "851f8a1c29fe9ae5387e335ff81b5f14667ee08a37088cc620e1baa4bf68272a"
   },
   "thresholds": [
     0,
@@ -1149,9 +1195,50 @@
     100
   ],
   "fields": [
+    "party_5c0c10997e36",
+    "party_ae61eea0b76f",
     "party_39182a78443b",
-    "party_5c0c10997e36"
+    "party_898451cc915a",
+    "party_c88b690b854d",
+    "party_dc88228e246c",
+    "party_8bbd20090ff0",
+    "party_770b7c4f95d9",
+    "party_c2ae49e50e6f",
+    "party_962fe7510253",
+    "party_8de841c6c733",
+    "party_2bc4f49335ed",
+    "party_425bd0347057",
+    "party_98f2708ede29",
+    "party_f9f7860d3488",
+    "party_53edb6ccf417",
+    "party_5c7618d84147",
+    "party_198a3e0a82df",
+    "party_3a3d8605b0bc",
+    "party_8aa7ee83f16e",
+    "party_df251fce2812",
+    "party_3710720db2f0",
+    "party_e721bba350db",
+    "party_610cee83545e",
+    "party_b784cf65a4aa",
+    "party_53c4a7820cc2",
+    "party_4a37be33f76c",
+    "party_0e7441786ae3",
+    "party_c52be8e516d8",
+    "party_ccf806852b2c",
+    "registered",
+    "voted",
+    "ballots",
+    "invalid",
+    "valid"
   ],
+  "library_versions": {
+    "numpy": "2.5.4",
+    "pandas": "3.0.1",
+    "scipy": "1.18.1",
+    "plotly": "6.9.0",
+    "fastapi": "0.162.0",
+    "shapely": "2.2.0"
+  },
   "sources": [
     {
       "title": "Бебер и Скако (2012): последње цифре и парови",
@@ -1169,7 +1256,7 @@
   "geography": {
     "source": "Јединствене изборне границе: општине и из њих изведени окрузи",
     "filename": "izborne_granice.geojson",
-    "sha256": "20c62089e4d7b6cf738966212ba8e99e063af26a9340afea9806ff999ad6e77c",
+    "sha256": "1c0680e9871dc2199f80e92d4b3445150be852120e3e930e2af7d896ebf10bcc",
     "retrieved_at": "2026-10-26T15:16:20.517888+00:00",
     "boundary_date": null,
     "coordinate_system": "EPSG:4326 — WGS84; географска дужина, географска ширина",
@@ -3347,7 +3434,7 @@
     },
     "profile": {
       "schema_version": 1,
-      "source_sha256": "7cedc92a37ea189624bc5542f9d350f3d9fc97d1b311cfe9a566b4c0a723c3d1",
+      "source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb",
       "mappings": [
         {
           "station_uid": "235566",
@@ -3355,10 +3442,10 @@
           "station_name": "МУЛТИКУЛТУРАЛНИ ЦЕНТАР",
           "city_id": "gn-2158177",
           "country_code": "AU",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=1",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235569",
@@ -3366,10 +3453,10 @@
           "station_name": "ГЕНЕРАЛНИ КОНЗУЛАТ РС СИДНЕЈ",
           "city_id": "gn-2147714",
           "country_code": "AU",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=1",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235572",
@@ -3377,10 +3464,10 @@
           "station_name": "АМБАСАДА РС БЕЧ – КОНЗУЛАРНО ОДЕЉЕЊЕ",
           "city_id": "gn-2761369",
           "country_code": "AT",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=1",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235575",
@@ -3388,10 +3475,10 @@
           "station_name": "АМБАСАДА РС БЕЧ – КОНЗУЛАРНО ОДЕЉЕЊЕ",
           "city_id": "gn-2761369",
           "country_code": "AT",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=1",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235578",
@@ -3399,10 +3486,10 @@
           "station_name": "АМБАСАДА РС БЕЧ – КОНЗУЛАРНО ОДЕЉЕЊЕ",
           "city_id": "gn-2761369",
           "country_code": "AT",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=1",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235581",
@@ -3410,10 +3497,10 @@
           "station_name": "АМБАСАДА РС БЕЧ – КОНЗУЛАРНО ОДЕЉЕЊЕ",
           "city_id": "gn-2761369",
           "country_code": "AT",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=1",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235584",
@@ -3421,10 +3508,10 @@
           "station_name": "ГЕНЕРАЛНИ КОНЗУЛАТ РС САЛЦБУРГ",
           "city_id": "gn-2766824",
           "country_code": "AT",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=1",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235587",
@@ -3432,10 +3519,10 @@
           "station_name": "КАНЦЕЛАРИЈА ПОЧАСНОГ КОНЗУЛА РС У ЛИНЦУ",
           "city_id": "gn-2772400",
           "country_code": "AT",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=1",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235590",
@@ -3443,10 +3530,10 @@
           "station_name": "АМБАСАДА РС БРИСЕЛ",
           "city_id": "gn-2800866",
           "country_code": "BE",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=2",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235593",
@@ -3454,10 +3541,10 @@
           "station_name": "АМБАСАДА РС САРАЈЕВО",
           "city_id": "gn-3191281",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=2",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235596",
@@ -3465,10 +3552,10 @@
           "station_name": "ГЕНЕРАЛНИ КОНЗУЛАТ РС БАЊА ЛУКА",
           "city_id": "gn-3204541",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=2",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235599",
@@ -3476,10 +3563,10 @@
           "station_name": "ПОСЛОВНА ЗГРАДА М:ТЕЛ БАЊА ЛУКА",
           "city_id": "gn-3204541",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=2",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235602",
@@ -3487,10 +3574,10 @@
           "station_name": "М:ТЕЛ ТКЦ БАЊА ЛУКА",
           "city_id": "gn-3204541",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=2",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235605",
@@ -3498,10 +3585,10 @@
           "station_name": "ГЕНЕРАЛНИ КОНЗУЛАТ РС МОСТАР",
           "city_id": "gn-3194828",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=2",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235608",
@@ -3509,10 +3596,10 @@
           "station_name": "КОНЗУЛАРНА КАНЦЕЛАРИЈА ГЕНЕРАЛНОГ КОНЗУЛАТА РС У МОСТАРУ СА СЕДИШТЕМ У ДРВАРУ",
           "city_id": "gn-3201136",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=2",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235611",
@@ -3520,10 +3607,10 @@
           "station_name": "КОНЗУЛАРНА КАНЦЕЛАРИЈА ГЕНЕРАЛНОГ КОНЗУЛАТА РС У БАЊА ЛУЦИ СА СЕДИШТЕМ У ТРЕБИЊУ",
           "city_id": "gn-3188893",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=2",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235614",
@@ -3531,10 +3618,10 @@
           "station_name": "ОСНОВНА ШКОЛА „ВУК КАРАЏИЋ” РОЋЕВИЋ, ПОДРУЧНО ОДЕЉЕЊЕ БРАЊЕВО",
           "city_id": "gn-3203561",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=2",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235617",
@@ -3542,10 +3629,10 @@
           "station_name": "ОСНОВНА ШКОЛА „ВУК КАРАЏИЋ”",
           "city_id": "gn-3204186",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=2",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235620",
@@ -3553,10 +3640,10 @@
           "station_name": "ОСНОВНА ШКОЛА „ВУК КАРАЏИЋ”",
           "city_id": "gn-3204186",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=3",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235623",
@@ -3564,10 +3651,10 @@
           "station_name": "СРЕДЊОШКОЛСКИ ЦЕНТАР БРАТУНАЦ",
           "city_id": "gn-3203533",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=3",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235626",
@@ -3575,10 +3662,10 @@
           "station_name": "СРЕДЊОШКОЛСКИ ЦЕНТАР „ИВО АНДРИЋ”",
           "city_id": "gn-3187681",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=3",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235629",
@@ -3586,10 +3673,10 @@
           "station_name": "ЦЕНТАР ЗА ОБРАЗОВАЊЕ И КУЛТУРУ",
           "city_id": "gn-3201984",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=3",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235632",
@@ -3597,10 +3684,10 @@
           "station_name": "ОСНОВНА ШКОЛА „СВЕТИ САВА”",
           "city_id": "gn-3186246",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=3",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235635",
@@ -3608,10 +3695,10 @@
           "station_name": "ОСНОВНА ШКОЛА „СВЕТИ САВА”",
           "city_id": "gn-3196209",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=3",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235638",
@@ -3619,10 +3706,10 @@
           "station_name": "ОСНОВНА ШКОЛА „ДЕСАНКА МАКСИМОВИЋ”",
           "city_id": "gn-3192409",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=3",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235641",
@@ -3630,10 +3717,10 @@
           "station_name": "СРЕДЊОШКОЛСКИ ЦЕНТАР „РУДО”",
           "city_id": "gn-3191449",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=3",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235644",
@@ -3641,10 +3728,10 @@
           "station_name": "СРЕДЊОШКОЛСКИ ЦЕНТАР „МРКОЊИЋ ГРАД”",
           "city_id": "gn-3194724",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=3",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235647",
@@ -3652,10 +3739,10 @@
           "station_name": "ОСНОВНА ШКОЛА „СРБИЈА”",
           "city_id": "gn-3193692",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=3",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235650",
@@ -3663,10 +3750,10 @@
           "station_name": "ОСНОВНА ШКОЛА „ВУК КАРАЏИЋ“",
           "city_id": "gn-3187524",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=3",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235653",
@@ -3674,10 +3761,10 @@
           "station_name": "ОСНОВНА ШКОЛА „СОКОЛАЦ“",
           "city_id": "gn-3190385",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=4",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235656",
@@ -3685,10 +3772,10 @@
           "station_name": "ОСНОВНА ШКОЛА „СВЕТИ САВА“",
           "city_id": "gn-3200837",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=4",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235659",
@@ -3696,10 +3783,10 @@
           "station_name": "СРЕДЊОШКОЛСКИ ЦЕНТАР „27. ЈАНУАР“",
           "city_id": "gn-3191576",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=4",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235662",
@@ -3707,10 +3794,10 @@
           "station_name": "ЈП „СКЦ“",
           "city_id": "gn-11205170",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=4",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235665",
@@ -3718,10 +3805,10 @@
           "station_name": "КУЛТУРНИ ЦЕНТАР",
           "city_id": "gn-3203656",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=4",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235668",
@@ -3729,10 +3816,10 @@
           "station_name": "ЦЕНТАР ЗА КУЛТУРУ „ФИЛИП ВИШЊИЋ“",
           "city_id": "gn-3188532",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=4",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235671",
@@ -3740,10 +3827,10 @@
           "station_name": "СРПСКА КУЋА",
           "city_id": "gn-3203521",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=4",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235674",
@@ -3751,10 +3838,10 @@
           "station_name": "ОСНОВНА ШКОЛА „ВУК КАРАЏИЋ“ ПОДРУЧНА ШКОЛА НОВО ГОРАЖДЕ",
           "city_id": "gn-3197764",
           "country_code": "BA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=4",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235677",
@@ -3762,10 +3849,10 @@
           "station_name": "АМБАСАДА РС БРАЗИЛИЈА",
           "city_id": "gn-3469058",
           "country_code": "BR",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=4",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235680",
@@ -3773,10 +3860,10 @@
           "station_name": "АМБАСАДА РС АТИНА",
           "city_id": "gn-264371",
           "country_code": "GR",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=4",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235683",
@@ -3784,10 +3871,10 @@
           "station_name": "АМБАСАДА РС КОПЕНХАГЕН",
           "city_id": "gn-2618425",
           "country_code": "DK",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=4",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235686",
@@ -3795,10 +3882,10 @@
           "station_name": "АМБАСАДА РС ЏАКАРТА",
           "city_id": "gn-1642911",
           "country_code": "ID",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=5",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235689",
@@ -3806,10 +3893,10 @@
           "station_name": "CARLTON HOTEL BLANCHARDSTOWN",
           "city_id": "gn-2964574",
           "country_code": "IE",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=5",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235692",
@@ -3817,10 +3904,10 @@
           "station_name": "АМБАСАДА РС РИМ",
           "city_id": "gn-3169070",
           "country_code": "IT",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=5",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235695",
@@ -3828,10 +3915,10 @@
           "station_name": "ГЕНЕРАЛНИ КОНЗУЛАТ РС МИЛАНО",
           "city_id": "gn-3173435",
           "country_code": "IT",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=5",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235698",
@@ -3839,10 +3926,10 @@
           "station_name": "ГЕНЕРАЛНИ КОНЗУЛАТ РС ТРСТ",
           "city_id": "gn-3165185",
           "country_code": "IT",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=5",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235701",
@@ -3850,10 +3937,10 @@
           "station_name": "АМБАСАДА РС ТОКИО",
           "city_id": "gn-1850147",
           "country_code": "JP",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=5",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235704",
@@ -3861,10 +3948,10 @@
           "station_name": "АМБАСАДА РС ПРЕТОРИЈА",
           "city_id": "gn-964137",
           "country_code": "ZA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=5",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235707",
@@ -3872,10 +3959,10 @@
           "station_name": "АМБАСАДА РС ОТАВА",
           "city_id": "gn-6094817",
           "country_code": "CA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=5",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235710",
@@ -3883,10 +3970,10 @@
           "station_name": "ГЕНЕРАЛНИ КОНЗУЛАТ РС  ТОРОНТО",
           "city_id": "gn-6167865",
           "country_code": "CA",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=5",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235713",
@@ -3894,10 +3981,10 @@
           "station_name": "АМБАСАДА РС ПЕКИНГ",
           "city_id": "gn-1816670",
           "country_code": "CN",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=5",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235716",
@@ -3905,10 +3992,10 @@
           "station_name": "АМБАСАДА РС НИКОЗИЈА",
           "city_id": "gn-146268",
           "country_code": "CY",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=5",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235719",
@@ -3916,10 +4003,10 @@
           "station_name": "СРПСКИ КУЛТУРНИ ЦЕНТАР",
           "city_id": "gn-2960316",
           "country_code": "LU",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=6",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235722",
@@ -3927,10 +4014,10 @@
           "station_name": "ВИША ПОСЛОВНА ШКОЛА „ASENICIA“",
           "city_id": "gn-2562955",
           "country_code": "MT",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=6",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235725",
@@ -3938,10 +4025,10 @@
           "station_name": "АМБАСАДА РС БУДИМПЕШТА",
           "city_id": "gn-3054643",
           "country_code": "HU",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=6",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235728",
@@ -3949,10 +4036,10 @@
           "station_name": "АМБАСАДА РС БЕРЛИН",
           "city_id": "gn-2950159",
           "country_code": "DE",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=6",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235731",
@@ -3960,10 +4047,10 @@
           "station_name": "ГЕНЕРАЛНИ КОНЗУЛАТ РС ДИСЕЛДОРФ",
           "city_id": "gn-2934246",
           "country_code": "DE",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=6",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235734",
@@ -3971,10 +4058,10 @@
           "station_name": "ГЕНЕРАЛНИ КОНЗУЛАТ РС МИНХЕН",
           "city_id": "gn-2867714",
           "country_code": "DE",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=6",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235737",
@@ -3982,10 +4069,10 @@
           "station_name": "ГЕНЕРАЛНИ КОНЗУЛАТ РС МИНХЕН",
           "city_id": "gn-2867714",
           "country_code": "DE",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=6",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235740",
@@ -3993,10 +4080,10 @@
           "station_name": "ГЕНЕРАЛНИ КОНЗУЛАТ РС ШТУТГАРТ",
           "city_id": "gn-2825297",
           "country_code": "DE",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=6",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235743",
@@ -4004,10 +4091,10 @@
           "station_name": "ГЕНЕРАЛНИ КОНЗУЛАТ РС ФРАНКФУРТ",
           "city_id": "gn-2925533",
           "country_code": "DE",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=6",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235746",
@@ -4015,10 +4102,10 @@
           "station_name": "ГЕНЕРАЛНИ КОНЗУЛАТ РС ФРАНКФУРТ",
           "city_id": "gn-2925533",
           "country_code": "DE",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=6",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235749",
@@ -4026,10 +4113,10 @@
           "station_name": "ГЕНЕРАЛНИ КОНЗУЛАТ РС ХАМБУРГ",
           "city_id": "gn-2911298",
           "country_code": "DE",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=6",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235752",
@@ -4037,10 +4124,10 @@
           "station_name": "WHITECLIFFE КОЛЕЏ",
           "city_id": "gn-2193733",
           "country_code": "NZ",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=6",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235755",
@@ -4048,10 +4135,10 @@
           "station_name": "АМБАСАДА РС ОСЛО",
           "city_id": "gn-3143244",
           "country_code": "NO",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=6",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235758",
@@ -4059,10 +4146,10 @@
           "station_name": "АМБАСАДА РС ВАРШАВА",
           "city_id": "gn-756135",
           "country_code": "PL",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=6",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235761",
@@ -4070,10 +4157,10 @@
           "station_name": "АМБАСАДА РС ЛИСАБОН",
           "city_id": "gn-2267057",
           "country_code": "PT",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=7",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235764",
@@ -4081,10 +4168,10 @@
           "station_name": "АМБАСАДА РС МОСКВА",
           "city_id": "gn-524901",
           "country_code": "RU",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=7",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235767",
@@ -4092,10 +4179,10 @@
           "station_name": "КОМПАНИЈА АЛК++",
           "city_id": "gn-491422",
           "country_code": "RU",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=7",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235770",
@@ -4103,10 +4190,10 @@
           "station_name": "АМБАСАДА РС СКОПЉЕ",
           "city_id": "gn-785842",
           "country_code": "MK",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=7",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235773",
@@ -4114,10 +4201,10 @@
           "station_name": "КАНЦЕЛАРИЈА ПОЧАСНОГ КОНЗУЛА РС У КУМАНОВУ",
           "city_id": "gn-788886",
           "country_code": "MK",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=7",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235776",
@@ -4125,10 +4212,10 @@
           "station_name": "АМБАСАДА РС ВАШИНГТОН",
           "city_id": "gn-4140963",
           "country_code": "US",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=7",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235779",
@@ -4136,10 +4223,10 @@
           "station_name": "ГЕНЕРАЛНИ КОНЗУЛАТ РС ЧИКАГО",
           "city_id": "gn-4887398",
           "country_code": "US",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=7",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235782",
@@ -4147,10 +4234,10 @@
           "station_name": "ГЕНЕРАЛНИ КОНЗУЛАТ РС ЊУЈОРК",
           "city_id": "gn-5128581",
           "country_code": "US",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=7",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235785",
@@ -4158,10 +4245,10 @@
           "station_name": "ОБЈЕКАТ ЗАЈЕДНИЦЕ ПРЕДУЗЕТНИКА \"EXPERT DOJO“",
           "city_id": "gn-5393212",
           "country_code": "US",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=7",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235788",
@@ -4169,10 +4256,10 @@
           "station_name": "АМБАСАДА РС ЉУБЉАНА",
           "city_id": "gn-3196359",
           "country_code": "SI",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=7",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235791",
@@ -4180,10 +4267,10 @@
           "station_name": "АМБАСАДА РС ЉУБЉАНА",
           "city_id": "gn-3196359",
           "country_code": "SI",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=7",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235794",
@@ -4191,10 +4278,10 @@
           "station_name": "АМБАСАДА РС ЛОНДОН",
           "city_id": "gn-2643743",
           "country_code": "GB",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=8",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235797",
@@ -4202,10 +4289,10 @@
           "station_name": "АМБАСАДА РС ХЕЛСИНКИ",
           "city_id": "gn-658225",
           "country_code": "FI",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=8",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235800",
@@ -4213,10 +4300,10 @@
           "station_name": "КУЛТУРНИ ЦЕНТАР СРБИЈЕ",
           "city_id": "gn-2988507",
           "country_code": "FR",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=8",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235803",
@@ -4224,10 +4311,10 @@
           "station_name": "КОНЗУЛАТ РС СТРАЗБУР",
           "city_id": "gn-2973783",
           "country_code": "FR",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=8",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235806",
@@ -4235,10 +4322,10 @@
           "station_name": "АМБАСАДА РС ХАГ",
           "city_id": "gn-2747373",
           "country_code": "NL",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=8",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235809",
@@ -4246,10 +4333,10 @@
           "station_name": "АМБАСАДА РС ЗАГРЕБ",
           "city_id": "gn-3186886",
           "country_code": "HR",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=8",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235812",
@@ -4257,10 +4344,10 @@
           "station_name": "ГЕНЕРАЛНИ КОНЗУЛАТ РС ВУКОВАР",
           "city_id": "gn-3187047",
           "country_code": "HR",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=8",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235815",
@@ -4268,10 +4355,10 @@
           "station_name": "АМБАСАДА РС ПОДГОРИЦА",
           "city_id": "gn-3193044",
           "country_code": "ME",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=8",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235818",
@@ -4279,10 +4366,10 @@
           "station_name": "УДРУЖЕЊЕ „КОСМЕТ”",
           "city_id": "gn-3189429",
           "country_code": "ME",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=8",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235821",
@@ -4290,10 +4377,10 @@
           "station_name": "КАНЦЕЛАРИЈА РАСЕЉЕНИХ ЛИЦА СА КОСМЕТА",
           "city_id": "gn-3199071",
           "country_code": "ME",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=8",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235824",
@@ -4301,10 +4388,10 @@
           "station_name": "АМБАСАДА РС ПРАГ",
           "city_id": "gn-3067696",
           "country_code": "CZ",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=8",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235827",
@@ -4312,10 +4399,10 @@
           "station_name": "АМБАСАДА РС БЕРН",
           "city_id": "gn-2661552",
           "country_code": "CH",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=8",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235830",
@@ -4323,10 +4410,10 @@
           "station_name": "ГЕНЕРАЛНИ КОНЗУЛАТ РС ЦИРИХ",
           "city_id": "gn-2657896",
           "country_code": "CH",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=8",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235833",
@@ -4334,10 +4421,10 @@
           "station_name": "АМБАСАДА РС СТОКХОЛМ",
           "city_id": "gn-2673730",
           "country_code": "SE",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=9",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235836",
@@ -4345,10 +4432,10 @@
           "station_name": "КУЛТУРНО-СПОРТСКO УДРУЖЕЊЕ „СРБИЈА” МАЛМЕ",
           "city_id": "gn-2692969",
           "country_code": "SE",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=9",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235839",
@@ -4356,10 +4443,10 @@
           "station_name": "АМБАСАДА РС МАДРИД",
           "city_id": "gn-3117735",
           "country_code": "ES",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=9",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         },
         {
           "station_uid": "235842",
@@ -4367,20 +4454,20 @@
           "station_name": "АМБАСАДА РС МАДРИД",
           "city_id": "gn-3117735",
           "country_code": "ES",
-          "status": "suggested",
+          "status": "confirmed",
           "source": "https://prigovori-dijaspora.studenti.org.rs/data/odluke/rik_odluka_bm_inostranstvo_2026-10-05.pdf#page=9",
           "evidence": "Проверени редни број, назив и адреса у одлуци РИК-а 02 број 013-319/26-3, 5. октобар 2026.",
-          "previous_source_sha256": "f0e2073035b9fe6b5e039314438bdf507ec0633396eb27d0c8bf73ed3b6247cb"
+          "previous_source_sha256": "a7c730ea963dd31bb76c4571677a200035d2f08b53569336fce2b806c5a0d2db"
         }
       ],
       "cities": []
     },
-    "revision": "2a1dd0db0cb17a1ccdff1aa30254a14a95d05650d2461d1fa7885b537b6a82e0",
+    "revision": "851f8a1c29fe9ae5387e335ff81b5f14667ee08a37088cc620e1baa4bf68272a",
     "coverage": {
       "stations": 93,
-      "located": 0,
+      "located": 93,
       "country_only": 0,
-      "unresolved": 93
+      "unresolved": 0
     },
     "sources": {
       "world": {
@@ -4696,15 +4783,8 @@
     },
     "coordinate_note": "Тачке означавају средиште града, а не адресу бирачког места."
   },
-  "location_revision": "2a1dd0db0cb17a1ccdff1aa30254a14a95d05650d2461d1fa7885b537b6a82e0",
-  "built_at": "2026-10-29T17:40:42.613000+00:00",
-  "calculation_environment": "Python у прегледачу (Pyodide)",
-  "export_scope": "Само обрачунати избори података и сачуване симулације",
-  "library_versions": {
-    "numpy": "2.0.2",
-    "pandas": "2.2.3",
-    "scipy": "1.14.1",
-    "shapely": "2.0.6"
-  },
-  "html_sha256": "a999a54da9c2c79684a95a4d372954d370ffebc59e04e085bc7dd958c8ddda00"
+  "location_revision": "851f8a1c29fe9ae5387e335ff81b5f14667ee08a37088cc620e1baa4bf68272a",
+  "built_at": "2026-10-27T09:18:45.592016+00:00",
+  "simulation_scopes": [],
+  "html_sha256": "5a30e4294a6aa742fdab79e39078bec0179dcd0fbd4c504e6eb0a3b882548728"
 }
